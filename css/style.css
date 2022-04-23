@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    max-width: 1307px;
+    width: 100%;
+    margin: 0 auto;
+}
+.pic{
+    box-shadow: 10px 10px #0A22F4 ;
+    border-radius: 20px;
+}
+.pic2{
+    box-shadow: -10px 10px #0A22F4;
+    border-radius: 20px;
+}
+.article{
+    margin-bottom: 200px;
+}
+.article p{
+    width: 380px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+.article img{
+    width: 707px;
+    height: 707px;
+    object-fit: cover;
+    vertical-align: middle;
+    margin-right: 60px;
+    margin-top: 250px;
+}
+.articletext1{
+    display: inline-block;
+    margin-bottom: 100px;
+    vertical-align: bottom;
+    margin-bottom: 400px;
+}
+.secarticle{
+    display:inline-block;
+    margin-left:40px;
+}
+h2{
+    font-family: 'ArchyEDT-Bold';
+    margin-bottom: 60px;
+}
+p{
+    font-family: 'DejaVu Sans Extra Light';
+}

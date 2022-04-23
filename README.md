@@ -1,1 +1,1 @@
-# lesson6
+# mid-board6
